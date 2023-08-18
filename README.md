@@ -1,13 +1,22 @@
 <p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="trycode.jpg" ></p>
 
 <div>
-  <h1 align="center">Olá! Tudo bem? 😃️</h1>
-  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/henrique-ventura-7323891b7/"><i>Henrique Ventura</i></a> e eu sou desenvolvedor de software></a>. 😃️
-  <p align="center"> Sou apaixonado por tecnologia e gosto de compartilhar meu aprendizado <i> também sou programador competitivo do ACM-ICPC</i></a><span> 👉🏽️</span>
-  <h1 align="center"> <a href="https://www.linkedin.com/in/henrique-ventura-7323891b7/"><i>TryCode</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web e compartilho meu aprendizado com todo mundo nas redes sociais.<span> 👉🏽️</span>
-  <br>
-  <p align="center">Siga aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</p>
+   😃️
+ <p align="center">Olá, eu sou <h2> <a href="https://www.linkedin.com/in/henrique-ventura-7323891b7/"><i>Henrique Ventura</i></a> </h2>, um entusiasta do desenvolvimento de software apaixonado por transformar linhas de código em soluções inovadoras. Como um Software Developer, mergulho de cabeça no mundo da programação para criar aplicativos web e mobile que trazem ideias à vida.
+
+Minha jornada pelo vasto território da tecnologia me levou a dominar diversas ferramentas e linguagens. Minha caixa de ferramentas inclui as linguagens dinâmicas e poderosas como <strong>Javascript</strong>, <strong>PHP</strong> e <strong>Python</strong>. Além disso, sou adepto dos renomados frameworks Django e Laravel, que utilizo para construir bases sólidas e eficientes para os sistemas que desenvolvo.
+
+Como um freelancer no campo do desenvolvimento, estou constantemente explorando novos desafios e oportunidades empolgantes. Meu foco está firmemente direcionado para o backend, onde construo a espinha dorsal robusta que sustenta a funcionalidade e a escalabilidade de cada aplicativo que desenvolvo.
+
+Neste espaço, você encontrará uma coleção dos meus projetos, ideias e colaborações que refletem meu comprometimento em criar soluções de alta qualidade. Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada de aprendizado contínuo e inovação tecnológica.
+
+Se você está procurando por um desenvolvedor apaixonado, orientado para resultados e sempre pronto para enfrentar novos desafios, você veio ao lugar certo. Vamos construir o futuro juntos através do código!
+
+Conecte-se comigo e vamos criar algo incrível. ✨👨‍💻
+
+Cumprimentos,
+Henrique Ventura
+Programador</p>
 </div>
 
 <div align="center">
