@@ -2,21 +2,20 @@
 
 <div>
    😃️
- <p align="center">Olá, eu sou <h2> <a href="https://www.linkedin.com/in/henrique-ventura-7323891b7/"><i>Henrique Ventura</i></a> </h2>, um entusiasta do desenvolvimento de software apaixonado por transformar linhas de código em soluções inovadoras. Como um Software Developer, mergulho de cabeça no mundo da programação para criar aplicativos web e mobile que trazem ideias à vida.
+ <p align="center">Hello, I am <h2> Henrique Ventura </h2>, a software development enthusiast passionate about transforming lines of code into innovative solutions. As a Software Developer, I dive head first into the world of programming to create web and mobile applications that bring ideas to life.
+My journey through the vast territory of technology led me to master several tools and languages. My toolbox includes the dynamic and powerful languages ​​like <strong>Javascript</strong>, <strong>PHP</strong> and <strong>Python</strong>.Furthermore, I am a fan of the renowned Django and Laravel frameworks, which I use to build solid and efficient foundations for the systems I develop.
 
-Minha jornada pelo vasto território da tecnologia me levou a dominar diversas ferramentas e linguagens. Minha caixa de ferramentas inclui as linguagens dinâmicas e poderosas como <strong>Javascript</strong>, <strong>PHP</strong> e <strong>Python</strong>. Além disso, sou adepto dos renomados frameworks Django e Laravel, que utilizo para construir bases sólidas e eficientes para os sistemas que desenvolvo.
+As a freelancer in the development field, I am constantly exploring new challenges and exciting opportunities. My focus is firmly on the backend, where I build the robust backbone that supports the functionality and scalability of each application I develop.
 
-Como um freelancer no campo do desenvolvimento, estou constantemente explorando novos desafios e oportunidades empolgantes. Meu foco está firmemente direcionado para o backend, onde construo a espinha dorsal robusta que sustenta a funcionalidade e a escalabilidade de cada aplicativo que desenvolvo.
+In this space, you will find a collection of my projects, ideas and collaborations that reflect my commitment to creating high-quality solutions. Feel free to explore my repositories and follow my journey of continuous learning and technological innovation.
 
-Neste espaço, você encontrará uma coleção dos meus projetos, ideias e colaborações que refletem meu comprometimento em criar soluções de alta qualidade. Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada de aprendizado contínuo e inovação tecnológica.
+If you're looking for a developer who is passionate, results-oriented and always ready to take on new challenges, you've come to the right place. Let's build the future together through code!
 
-Se você está procurando por um desenvolvedor apaixonado, orientado para resultados e sempre pronto para enfrentar novos desafios, você veio ao lugar certo. Vamos construir o futuro juntos através do código!
+Connect with me and let's create something amazing. ✨👨‍💻
 
-Conecte-se comigo e vamos criar algo incrível. ✨👨‍💻
-
-Cumprimentos,
-Henrique Ventura
-Programador</p>
+Compliments,
+Henry Ventura
+Programmer</p>
 </div>
 
 <div align="center">
