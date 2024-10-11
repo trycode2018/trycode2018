@@ -9,13 +9,14 @@
   - PHP/Laravel
   - Python/Django
   - Django Rest Framework
+  - C# e ASP.NET Core
 </div>
 <div align="center">
 - **Front-end:**
   -HTML
   -CSS
   - JavaScript
-  - Framework: Svelte
+  - Framework: Angular
 </div>
 
 <p>Additionally, I am familiar with version control using Git and GitHub.</p>
